@@ -9,9 +9,13 @@ Change the filepath in the batch file to where the "Start-Recording.ps1" script 
 Run the batch file!
 
 This script will Install the following (if not already installed):
+
 Chrome - Installed with winget
+
 ffmpeg - Installed with winget
+
 NuGet Package manager - Installed Install-PackageProvider
+
 Selenium Modlue - Installed with Install-Module
 
 Again this is just a simple script, feel free to change any code to suit your needs.
