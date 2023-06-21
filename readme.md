@@ -1,12 +1,20 @@
 This is a personal script I've been using that I thought I would share.
+
 Please look over the script before you run it! It has very little testing done!
+
 I do not gaurentee this to work for everyone, It is created for use on a Windows Server 2022 VM and I have not done alot of testing on any other windows versions.
+
 Feel free to fork this and update it!, I probably won't update this too often.
 
+
 How to:
+
 Download both files, change the "$KickChannel" and "$DownloadFolder" variable in "Start-Recording.ps1" to your prefrences.
+
 Change the filepath in the batch file to where the "Start-Recording.ps1" script is located.
+
 Run the batch file!
+
 
 This script will Install the following (if not already installed):
 
@@ -17,6 +25,7 @@ ffmpeg - Installed with winget
 NuGet Package manager - Installed Install-PackageProvider
 
 Selenium Modlue - Installed with Install-Module
+
 
 Again this is just a simple script, feel free to change any code to suit your needs.
 
