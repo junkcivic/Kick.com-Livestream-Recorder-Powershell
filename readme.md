@@ -29,8 +29,9 @@ Selenium Modlue - Installed with Install-Module
 
 Again this is just a simple script, feel free to change any code to suit your needs.
 
-![ykMXuHiUln](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/a66ae24e-f2a1-469d-a2ce-e697acd1c63c)
-![GFdccG8ra6](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/c3199da8-318f-47c4-b244-790fe47e01ea)
+![ykMXuHiUln](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/f5d35a61-2715-43bc-b24a-ecdd34da8794)
+![GFdccG8ra6](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/0395a1f2-73bf-43c8-b6a2-247b2896af19)
+
 
 
 DISCLAIMER:
