@@ -2,9 +2,9 @@ This is a personal script I've been using that I thought I would share.
 
 Please look over the script before you run it! It has very little testing done!
 
-I do not gaurentee this to work for everyone, It is created for use on a Windows Server 2022 VM and I have not done alot of testing on any other windows versions.
+I do not gaurentee this to work for everyone.
 
-Feel free to fork this and update it!, I probably won't update this too often.
+This is created for use on a Windows Server 2022 VM and I have not done any testing on any other windows versions.
 
 ## How to:
 + Download both files
@@ -20,7 +20,7 @@ Feel free to fork this and update it!, I probably won't update this too often.
 + NuGet Package manager - Installed Install-PackageProvider.
 + Selenium Modlue - Installed with Install-Module.
 
-***Again this is just a simple script, feel free to change any code to suit your needs.***
+***Again this is just a simple script, feel free to fork the repo and change any code to suit your needs.***
 
 ![ykMXuHiUln](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/f5d35a61-2715-43bc-b24a-ecdd34da8794)
 ![GFdccG8ra6](https://github.com/junkcivic/Kick.com-Livestream-Recorder-Powershell/assets/137356472/0395a1f2-73bf-43c8-b6a2-247b2896af19)
